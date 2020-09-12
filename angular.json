@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aws-demo-app"
+    }
+  },
+  "defaultProject": "aws-demo-app",
+  "cli": {
+    "analytics": false
+  }
 }
